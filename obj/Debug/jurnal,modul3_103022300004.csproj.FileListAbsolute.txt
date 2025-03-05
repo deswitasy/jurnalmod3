@@ -1,0 +1,10 @@
+D:\jurnal,modul3_103022300004\obj\Debug\jurnal,modul3_103022300004.csproj.AssemblyReference.cache
+D:\jurnal,modul3_103022300004\obj\Debug\jurnal_modul3_103022300004.Form1.resources
+D:\jurnal,modul3_103022300004\obj\Debug\jurnal_modul3_103022300004.Properties.Resources.resources
+D:\jurnal,modul3_103022300004\obj\Debug\jurnal,modul3_103022300004.csproj.GenerateResource.cache
+D:\jurnal,modul3_103022300004\obj\Debug\jurnal,modul3_103022300004.csproj.CoreCompileInputs.cache
+D:\jurnal,modul3_103022300004\bin\Debug\jurnal,modul3_103022300004.exe.config
+D:\jurnal,modul3_103022300004\bin\Debug\jurnal,modul3_103022300004.exe
+D:\jurnal,modul3_103022300004\bin\Debug\jurnal,modul3_103022300004.pdb
+D:\jurnal,modul3_103022300004\obj\Debug\jurnal,modul3_103022300004.exe
+D:\jurnal,modul3_103022300004\obj\Debug\jurnal,modul3_103022300004.pdb
